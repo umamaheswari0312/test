@@ -5,4 +5,10 @@ if hungry=="yes":
     print("sambar")
     print("coconut chutney")
 else:
-    print("Do your homework")
+    thirsty=input("Are you thirsty?")
+    if thirsty=="yes":
+        print("drink water")
+        print("drink jira water")
+    else:
+        print("Do your homework")
+
