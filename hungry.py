@@ -5,6 +5,7 @@ if hungry=="yes":
     print("sambar")
     print("coconut chutney")
     print("Allam chutney")
+    print("Karappodi")
 else:
     thirsty=input("Are you thirsty?")
     if thirsty=="yes":
