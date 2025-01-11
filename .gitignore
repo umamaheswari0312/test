@@ -1,0 +1,4 @@
+*.exe
+.gitigore
+test.py
+.DS_Store
