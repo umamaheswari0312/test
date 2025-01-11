@@ -7,6 +7,7 @@ if hungry=="yes":
     print("Allam chutney")
     print("Karappodi")
     print("ghee")
+
 else:
     thirsty=input("Are you thirsty?")
     if thirsty=="yes":
