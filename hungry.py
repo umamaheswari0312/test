@@ -8,7 +8,6 @@ if hungry=="yes":
     print("Karappodi")
     
     print("not interested")
-
 else:
     thirsty=input("Are you thirsty?")
     if thirsty=="yes":
