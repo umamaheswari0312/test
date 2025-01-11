@@ -15,6 +15,7 @@ else:
         print("drink water")
         print("drink jira water")
         print("drink lemon water")
+        print("no water")
     else:
         print("Do your homework")
 
